@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+SAS:wght@100..400&display=swap');
+
 body{
     background-color: black;
-    color: blueviolet
- 
+    color: blueviolet;
+     font-family: "Playwrite DE SAS", cursive;
+     display: flex;
+     justify-content: center;
+     align-items: center;    
 }
