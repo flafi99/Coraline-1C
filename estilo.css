@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Modern:wght@100..400&display=swap');
 
 body{
-    background-color: black;
+    background-color: white;
     color: blueviolet;
     font-family: "Playwrite US Modern", cursive;
      display: flex;
@@ -9,7 +9,7 @@ body{
      align-items: center;    
 }   
 button{
-    background-color:black;
+    background-color:white;
     color:blueviolet;
     padding: 20px;
 
