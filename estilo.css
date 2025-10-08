@@ -7,4 +7,11 @@ body{
      display: flex;
      justify-content: center;
      align-items: center;    
+}   
+button{
+    background-color: white;
+    color:black
+    padding: 20px
+    
 }
+ 
